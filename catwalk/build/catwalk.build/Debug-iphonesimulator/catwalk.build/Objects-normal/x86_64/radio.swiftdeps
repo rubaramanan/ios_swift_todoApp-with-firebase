@@ -1,0 +1,486 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "radio"
+provides-nominal:
+- "7catwalk5radioC"
+provides-member:
+- ["7catwalk5radioC", ""]
+provides-dynamic-lookup:
+- "awakeFromNib"
+- "touchesBegan"
+depends-top-level:
+- !private "!"
+- !private "!="
+- "Array"
+- "AssignmentPrecedence"
+- !private "BooleanLiteralType"
+- !private "FloatLiteralType"
+- !private "IntegerLiteralType"
+- "Set"
+- "UIButton"
+- "UIEvent"
+- "UITouch"
+- "radio"
+depends-member:
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["So7CALayerC", "borderWidth"]
+- !private ["So7CALayerC", "cornerRadius"]
+- !private ["So7CALayerC", "masksToBounds"]
+- ["So15CALayerDelegateP", ""]
+- !private ["So15CALayerDelegateP", "alternateButton"]
+- !private ["So15CALayerDelegateP", "init"]
+- !private ["So15CALayerDelegateP", "init"]
+- !private ["So15CALayerDelegateP", "isSelected"]
+- !private ["So15CALayerDelegateP", "layer"]
+- !private ["So15CALayerDelegateP", "toggleButton"]
+- !private ["So15CALayerDelegateP", "touchesBegan"]
+- !private ["So15CALayerDelegateP", "unselectAlternateButtons"]
+- !private ["So13CAMediaTimingP", "borderWidth"]
+- !private ["So13CAMediaTimingP", "cornerRadius"]
+- !private ["So13CAMediaTimingP", "masksToBounds"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "alternateButton"]
+- !private ["s7CVarArgP", "borderWidth"]
+- !private ["s7CVarArgP", "cornerRadius"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "isSelected"]
+- !private ["s7CVarArgP", "layer"]
+- !private ["s7CVarArgP", "masksToBounds"]
+- !private ["s7CVarArgP", "toggleButton"]
+- !private ["s7CVarArgP", "touchesBegan"]
+- !private ["s7CVarArgP", "unselectAlternateButtons"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "alternateButton"]
+- !private ["s28CustomDebugStringConvertibleP", "borderWidth"]
+- !private ["s28CustomDebugStringConvertibleP", "cornerRadius"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "isSelected"]
+- !private ["s28CustomDebugStringConvertibleP", "layer"]
+- !private ["s28CustomDebugStringConvertibleP", "masksToBounds"]
+- !private ["s28CustomDebugStringConvertibleP", "toggleButton"]
+- !private ["s28CustomDebugStringConvertibleP", "touchesBegan"]
+- !private ["s28CustomDebugStringConvertibleP", "unselectAlternateButtons"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "alternateButton"]
+- !private ["s23CustomStringConvertibleP", "borderWidth"]
+- !private ["s23CustomStringConvertibleP", "cornerRadius"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "isSelected"]
+- !private ["s23CustomStringConvertibleP", "layer"]
+- !private ["s23CustomStringConvertibleP", "masksToBounds"]
+- !private ["s23CustomStringConvertibleP", "toggleButton"]
+- !private ["s23CustomStringConvertibleP", "touchesBegan"]
+- !private ["s23CustomStringConvertibleP", "unselectAlternateButtons"]
+- !private ["Se", "_getBuiltinLogicValue"]
+- !private ["SE", "_getBuiltinLogicValue"]
+- ["SQ", ""]
+- !private ["SQ", "_getBuiltinLogicValue"]
+- !private ["SQ", "alternateButton"]
+- !private ["SQ", "borderWidth"]
+- !private ["SQ", "cornerRadius"]
+- !private ["SQ", "init"]
+- !private ["SQ", "init"]
+- !private ["SQ", "isSelected"]
+- !private ["SQ", "layer"]
+- !private ["SQ", "masksToBounds"]
+- !private ["SQ", "toggleButton"]
+- !private ["SQ", "touchesBegan"]
+- !private ["SQ", "unselectAlternateButtons"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- ["SH", ""]
+- !private ["SH", "_getBuiltinLogicValue"]
+- !private ["SH", "alternateButton"]
+- !private ["SH", "borderWidth"]
+- !private ["SH", "cornerRadius"]
+- !private ["SH", "init"]
+- !private ["SH", "init"]
+- !private ["SH", "isSelected"]
+- !private ["SH", "layer"]
+- !private ["SH", "masksToBounds"]
+- !private ["SH", "toggleButton"]
+- !private ["SH", "touchesBegan"]
+- !private ["SH", "unselectAlternateButtons"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "alternateButton"]
+- !private ["So8NSCodingP", "borderWidth"]
+- !private ["So8NSCodingP", "cornerRadius"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "isSelected"]
+- !private ["So8NSCodingP", "layer"]
+- !private ["So8NSCodingP", "masksToBounds"]
+- !private ["So8NSCodingP", "toggleButton"]
+- !private ["So8NSCodingP", "touchesBegan"]
+- !private ["So8NSCodingP", "unselectAlternateButtons"]
+- ["So8NSObjectC", "Array"]
+- ["So8NSObjectC", "Set"]
+- ["So8NSObjectC", "UIEvent"]
+- ["So8NSObjectC", "UITouch"]
+- ["So8NSObjectC", "alternateButton"]
+- ["So8NSObjectC", "awakeFromNib"]
+- !private ["So8NSObjectC", "borderWidth"]
+- !private ["So8NSObjectC", "cornerRadius"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "isSelected"]
+- !private ["So8NSObjectC", "layer"]
+- !private ["So8NSObjectC", "masksToBounds"]
+- ["So8NSObjectC", "radio"]
+- ["So8NSObjectC", "toggleButton"]
+- ["So8NSObjectC", "touchesBegan"]
+- ["So8NSObjectC", "unselectAlternateButtons"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "alternateButton"]
+- !private ["So8NSObjectP", "borderWidth"]
+- !private ["So8NSObjectP", "cornerRadius"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "isSelected"]
+- !private ["So8NSObjectP", "layer"]
+- !private ["So8NSObjectP", "masksToBounds"]
+- !private ["So8NSObjectP", "toggleButton"]
+- !private ["So8NSObjectP", "touchesBegan"]
+- !private ["So8NSObjectP", "unselectAlternateButtons"]
+- !private ["So14NSSecureCodingP", "borderWidth"]
+- !private ["So14NSSecureCodingP", "cornerRadius"]
+- !private ["So14NSSecureCodingP", "masksToBounds"]
+- ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", ""]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "alternateButton"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "init"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "init"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "isSelected"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "layer"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "toggleButton"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "touchesBegan"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "unselectAlternateButtons"]
+- ["So29UIAccessibilityIdentificationP", ""]
+- !private ["So29UIAccessibilityIdentificationP", "alternateButton"]
+- !private ["So29UIAccessibilityIdentificationP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "isSelected"]
+- !private ["So29UIAccessibilityIdentificationP", "layer"]
+- !private ["So29UIAccessibilityIdentificationP", "toggleButton"]
+- !private ["So29UIAccessibilityIdentificationP", "touchesBegan"]
+- !private ["So29UIAccessibilityIdentificationP", "unselectAlternateButtons"]
+- ["So12UIAppearanceP", ""]
+- !private ["So12UIAppearanceP", "alternateButton"]
+- !private ["So12UIAppearanceP", "init"]
+- !private ["So12UIAppearanceP", "init"]
+- !private ["So12UIAppearanceP", "isSelected"]
+- !private ["So12UIAppearanceP", "layer"]
+- !private ["So12UIAppearanceP", "toggleButton"]
+- !private ["So12UIAppearanceP", "touchesBegan"]
+- !private ["So12UIAppearanceP", "unselectAlternateButtons"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "alternateButton"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "isSelected"]
+- !private ["So21UIAppearanceContainerP", "layer"]
+- !private ["So21UIAppearanceContainerP", "toggleButton"]
+- !private ["So21UIAppearanceContainerP", "touchesBegan"]
+- !private ["So21UIAppearanceContainerP", "unselectAlternateButtons"]
+- ["So8UIButtonC", "Array"]
+- ["So8UIButtonC", "Set"]
+- ["So8UIButtonC", "UIEvent"]
+- ["So8UIButtonC", "UITouch"]
+- ["So8UIButtonC", ""]
+- ["So8UIButtonC", "alternateButton"]
+- ["So8UIButtonC", "awakeFromNib"]
+- ["So8UIButtonC", "init"]
+- !private ["So8UIButtonC", "init"]
+- !private ["So8UIButtonC", "isSelected"]
+- !private ["So8UIButtonC", "layer"]
+- ["So8UIButtonC", "radio"]
+- ["So8UIButtonC", "toggleButton"]
+- ["So8UIButtonC", "touchesBegan"]
+- ["So8UIButtonC", "unselectAlternateButtons"]
+- ["So9UIControlC", "Array"]
+- ["So9UIControlC", "Set"]
+- ["So9UIControlC", "UIEvent"]
+- ["So9UIControlC", "UITouch"]
+- ["So9UIControlC", "alternateButton"]
+- ["So9UIControlC", "awakeFromNib"]
+- ["So9UIControlC", "init"]
+- !private ["So9UIControlC", "init"]
+- !private ["So9UIControlC", "isSelected"]
+- !private ["So9UIControlC", "layer"]
+- ["So9UIControlC", "radio"]
+- ["So9UIControlC", "toggleButton"]
+- ["So9UIControlC", "touchesBegan"]
+- ["So9UIControlC", "unselectAlternateButtons"]
+- ["So17UICoordinateSpaceP", ""]
+- !private ["So17UICoordinateSpaceP", "alternateButton"]
+- !private ["So17UICoordinateSpaceP", "init"]
+- !private ["So17UICoordinateSpaceP", "init"]
+- !private ["So17UICoordinateSpaceP", "isSelected"]
+- !private ["So17UICoordinateSpaceP", "layer"]
+- !private ["So17UICoordinateSpaceP", "toggleButton"]
+- !private ["So17UICoordinateSpaceP", "touchesBegan"]
+- !private ["So17UICoordinateSpaceP", "unselectAlternateButtons"]
+- ["So13UIDynamicItemP", ""]
+- !private ["So13UIDynamicItemP", "alternateButton"]
+- !private ["So13UIDynamicItemP", "init"]
+- !private ["So13UIDynamicItemP", "init"]
+- !private ["So13UIDynamicItemP", "isSelected"]
+- !private ["So13UIDynamicItemP", "layer"]
+- !private ["So13UIDynamicItemP", "toggleButton"]
+- !private ["So13UIDynamicItemP", "touchesBegan"]
+- !private ["So13UIDynamicItemP", "unselectAlternateButtons"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "alternateButton"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "isSelected"]
+- !private ["So18UIFocusEnvironmentP", "layer"]
+- !private ["So18UIFocusEnvironmentP", "toggleButton"]
+- !private ["So18UIFocusEnvironmentP", "touchesBegan"]
+- !private ["So18UIFocusEnvironmentP", "unselectAlternateButtons"]
+- ["So11UIFocusItemP", ""]
+- !private ["So11UIFocusItemP", "alternateButton"]
+- !private ["So11UIFocusItemP", "init"]
+- !private ["So11UIFocusItemP", "init"]
+- !private ["So11UIFocusItemP", "isSelected"]
+- !private ["So11UIFocusItemP", "layer"]
+- !private ["So11UIFocusItemP", "toggleButton"]
+- !private ["So11UIFocusItemP", "touchesBegan"]
+- !private ["So11UIFocusItemP", "unselectAlternateButtons"]
+- ["So20UIFocusItemContainerP", ""]
+- !private ["So20UIFocusItemContainerP", "alternateButton"]
+- !private ["So20UIFocusItemContainerP", "init"]
+- !private ["So20UIFocusItemContainerP", "init"]
+- !private ["So20UIFocusItemContainerP", "isSelected"]
+- !private ["So20UIFocusItemContainerP", "layer"]
+- !private ["So20UIFocusItemContainerP", "toggleButton"]
+- !private ["So20UIFocusItemContainerP", "touchesBegan"]
+- !private ["So20UIFocusItemContainerP", "unselectAlternateButtons"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "alternateButton"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "isSelected"]
+- !private ["So30UIPasteConfigurationSupportingP", "layer"]
+- !private ["So30UIPasteConfigurationSupportingP", "toggleButton"]
+- !private ["So30UIPasteConfigurationSupportingP", "touchesBegan"]
+- !private ["So30UIPasteConfigurationSupportingP", "unselectAlternateButtons"]
+- ["So11UIResponderC", "Array"]
+- ["So11UIResponderC", "Set"]
+- ["So11UIResponderC", "UIEvent"]
+- ["So11UIResponderC", "UITouch"]
+- ["So11UIResponderC", "alternateButton"]
+- ["So11UIResponderC", "awakeFromNib"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "isSelected"]
+- !private ["So11UIResponderC", "layer"]
+- ["So11UIResponderC", "radio"]
+- ["So11UIResponderC", "toggleButton"]
+- ["So11UIResponderC", "touchesBegan"]
+- ["So11UIResponderC", "unselectAlternateButtons"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "alternateButton"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "isSelected"]
+- !private ["So30UIResponderStandardEditActionsP", "layer"]
+- !private ["So30UIResponderStandardEditActionsP", "toggleButton"]
+- !private ["So30UIResponderStandardEditActionsP", "touchesBegan"]
+- !private ["So30UIResponderStandardEditActionsP", "unselectAlternateButtons"]
+- ["So35UISpringLoadedInteractionSupportingP", ""]
+- !private ["So35UISpringLoadedInteractionSupportingP", "alternateButton"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "init"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "init"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "isSelected"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "layer"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "toggleButton"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "touchesBegan"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "unselectAlternateButtons"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "alternateButton"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "isSelected"]
+- !private ["So18UITraitEnvironmentP", "layer"]
+- !private ["So18UITraitEnvironmentP", "toggleButton"]
+- !private ["So18UITraitEnvironmentP", "touchesBegan"]
+- !private ["So18UITraitEnvironmentP", "unselectAlternateButtons"]
+- ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "alternateButton"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "isSelected"]
+- !private ["So23UIUserActivityRestoringP", "layer"]
+- !private ["So23UIUserActivityRestoringP", "toggleButton"]
+- !private ["So23UIUserActivityRestoringP", "touchesBegan"]
+- !private ["So23UIUserActivityRestoringP", "unselectAlternateButtons"]
+- ["So6UIViewC", "Array"]
+- ["So6UIViewC", "Set"]
+- ["So6UIViewC", "UIEvent"]
+- ["So6UIViewC", "UITouch"]
+- ["So6UIViewC", "alternateButton"]
+- ["So6UIViewC", "awakeFromNib"]
+- ["So6UIViewC", "init"]
+- !private ["So6UIViewC", "init"]
+- !private ["So6UIViewC", "isSelected"]
+- !private ["So6UIViewC", "layer"]
+- ["So6UIViewC", "radio"]
+- ["So6UIViewC", "toggleButton"]
+- ["So6UIViewC", "touchesBegan"]
+- ["So6UIViewC", "unselectAlternateButtons"]
+- ["s37_DefaultCustomPlaygroundQuickLookableP", ""]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "alternateButton"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "init"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "init"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "isSelected"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "layer"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "toggleButton"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "touchesBegan"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "unselectAlternateButtons"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "alternateButton"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "borderWidth"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "cornerRadius"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "isSelected"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "layer"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "masksToBounds"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "toggleButton"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "touchesBegan"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "unselectAlternateButtons"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- ["7catwalk5radioC", "Array"]
+- ["7catwalk5radioC", "Set"]
+- ["7catwalk5radioC", "UIEvent"]
+- ["7catwalk5radioC", "UITouch"]
+- ["7catwalk5radioC", "alternateButton"]
+- ["7catwalk5radioC", "awakeFromNib"]
+- !private ["7catwalk5radioC", "deinit"]
+- ["7catwalk5radioC", "init"]
+- !private ["7catwalk5radioC", "isSelected"]
+- !private ["7catwalk5radioC", "layer"]
+- ["7catwalk5radioC", "radio"]
+- ["7catwalk5radioC", "toggleButton"]
+- ["7catwalk5radioC", "touchesBegan"]
+- ["7catwalk5radioC", "unselectAlternateButtons"]
+depends-nominal:
+- !private "Sb"
+- !private "So7CALayerC"
+- "So15CALayerDelegateP"
+- !private "So13CAMediaTimingP"
+- "s7CVarArgP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- !private "s27ExpressibleByBooleanLiteralP"
+- "SH"
+- !private "s25LosslessStringConvertibleP"
+- "So8NSCodingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "So14NSSecureCodingP"
+- "So48UIAccessibilityContentSizeCategoryImageAdjustingP"
+- "So29UIAccessibilityIdentificationP"
+- "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So8UIButtonC"
+- "So9UIControlC"
+- "So17UICoordinateSpaceP"
+- "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- "So11UIFocusItemP"
+- "So20UIFocusItemContainerP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So35UISpringLoadedInteractionSupportingP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- "So6UIViewC"
+- "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- "7catwalk5radioC"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/winsthevaa/Downloads/Ramanan 174127R/catwalk/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Headers/FIRInstanceID.h"
+- "/Users/winsthevaa/Downloads/Ramanan 174127R/catwalk/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Headers/FirebaseInstanceID.h"
+- "/Users/winsthevaa/Downloads/Ramanan 174127R/catwalk/Pods/Headers/Public/FirebaseAuth/FIRUserMetadata.h"
+- "/Users/winsthevaa/Downloads/Ramanan 174127R/catwalk/Pods/Headers/Public/FirebaseAuth/FIRAuthAPNSTokenType.h"
+- "/Users/winsthevaa/Downloads/Ramanan 174127R/catwalk/Pods/Headers/Public/FirebaseCore/FirebaseCore.h"
+- "/Users/winsthevaa/Downloads/Ramanan 174127R/catwalk/Pods/Firebase/CoreOnly/Sources/Firebase.h"
+- "/Users/winsthevaa/Downloads/Ramanan 174127R/catwalk/Pods/Headers/Public/FirebaseAuth/FIRAuthUIDelegate.h"
+- "/Users/winsthevaa/Downloads/Ramanan 174127R/catwalk/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics+AppDelegate.h"
+- "/Users/winsthevaa/Downloads/Ramanan 174127R/catwalk/Pods/Headers/Public/FirebaseAuth/FIRAuth.h"
+- "/Users/winsthevaa/Downloads/Ramanan 174127R/catwalk/Pods/Headers/Public/FirebaseAuth/FirebaseAuth.h"
+- "/Users/winsthevaa/Downloads/Ramanan 174127R/catwalk/Pods/Headers/Public/FirebaseAuth/FIRAuthCredential.h"
+- "/Users/winsthevaa/Downloads/Ramanan 174127R/catwalk/Pods/Headers/Public/FirebaseAuth/FIRPhoneAuthCredential.h"
+- "/Users/winsthevaa/Downloads/Ramanan 174127R/catwalk/Pods/Headers/Public/FirebaseCore/FIRLoggerLevel.h"
+- "/Users/winsthevaa/Downloads/Ramanan 174127R/catwalk/Pods/Headers/Public/FirebaseAuth/FirebaseAuthVersion.h"
+- "/Users/winsthevaa/Downloads/Ramanan 174127R/catwalk/Pods/Headers/Public/FirebaseCore/FIRConfiguration.h"
+- "/Users/winsthevaa/Downloads/Ramanan 174127R/catwalk/Pods/Headers/Public/FirebaseCore/FIRAnalyticsConfiguration.h"
+- "/Users/winsthevaa/Downloads/Ramanan 174127R/catwalk/Pods/Headers/Public/FirebaseAuth/FIRUserInfo.h"
+- "/Users/winsthevaa/Downloads/Ramanan 174127R/catwalk/Pods/Headers/Public/FirebaseAuth/FIRAdditionalUserInfo.h"
+- "/Users/winsthevaa/Downloads/Ramanan 174127R/catwalk/Pods/Headers/Public/FirebaseCore/FIRApp.h"
+- "/Users/winsthevaa/Downloads/Ramanan 174127R/catwalk/Pods/Headers/Public/FirebaseAuth/FIROAuthProvider.h"
+- "/Users/winsthevaa/Downloads/Ramanan 174127R/catwalk/Pods/Headers/Public/FirebaseAuth/FIRGitHubAuthProvider.h"
+- "/Users/winsthevaa/Downloads/Ramanan 174127R/catwalk/Pods/Headers/Public/FirebaseAuth/FIRGoogleAuthProvider.h"
+- "/Users/winsthevaa/Downloads/Ramanan 174127R/catwalk/Pods/Headers/Public/FirebaseAuth/FIRPhoneAuthProvider.h"
+- "/Users/winsthevaa/Downloads/Ramanan 174127R/catwalk/Pods/Headers/Public/FirebaseAuth/FIRFacebookAuthProvider.h"
+- "/Users/winsthevaa/Downloads/Ramanan 174127R/catwalk/Pods/Headers/Public/FirebaseAuth/FIREmailAuthProvider.h"
+- "/Users/winsthevaa/Downloads/Ramanan 174127R/catwalk/Pods/Headers/Public/FirebaseAuth/FIRGameCenterAuthProvider.h"
+- "/Users/winsthevaa/Downloads/Ramanan 174127R/catwalk/Pods/Headers/Public/FirebaseAuth/FIRTwitterAuthProvider.h"
+- "/Users/winsthevaa/Downloads/Ramanan 174127R/catwalk/Pods/Headers/Public/FirebaseAuth/FIRUser.h"
+- "/Users/winsthevaa/Downloads/Ramanan 174127R/catwalk/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics.h"
+- "/Users/winsthevaa/Downloads/Ramanan 174127R/catwalk/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FirebaseAnalytics.h"
+- "/Users/winsthevaa/Downloads/Ramanan 174127R/catwalk/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRParameterNames.h"
+- "/Users/winsthevaa/Downloads/Ramanan 174127R/catwalk/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIREventNames.h"
+- "/Users/winsthevaa/Downloads/Ramanan 174127R/catwalk/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRUserPropertyNames.h"
+- "/Users/winsthevaa/Downloads/Ramanan 174127R/catwalk/Pods/Headers/Public/FirebaseAuth/FIRActionCodeSettings.h"
+- "/Users/winsthevaa/Downloads/Ramanan 174127R/catwalk/Pods/Headers/Public/FirebaseAuth/FIRAuthSettings.h"
+- "/Users/winsthevaa/Downloads/Ramanan 174127R/catwalk/Pods/Headers/Public/FirebaseCore/FIROptions.h"
+- "/Users/winsthevaa/Downloads/Ramanan 174127R/catwalk/Pods/Headers/Public/FirebaseAuth/FIRAuthErrors.h"
+- "/Users/winsthevaa/Downloads/Ramanan 174127R/catwalk/Pods/Headers/Public/FirebaseAuth/FIRAuthDataResult.h"
+- "/Users/winsthevaa/Downloads/Ramanan 174127R/catwalk/Pods/Headers/Public/FirebaseAuth/FIRAuthTokenResult.h"
+- "/Users/winsthevaa/Downloads/Ramanan 174127R/catwalk/Pods/Firebase/CoreOnly/Sources/module.modulemap"
+- "/Users/winsthevaa/Downloads/Ramanan 174127R/catwalk/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Modules/module.modulemap"
+- "/Users/winsthevaa/Downloads/Ramanan 174127R/catwalk/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "11b1491c4c64ee60ecab15205c001e57"

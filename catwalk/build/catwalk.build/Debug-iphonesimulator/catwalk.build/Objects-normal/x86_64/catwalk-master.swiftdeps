@@ -1,0 +1,10 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "03d4b59ac8bc756da2b02f16fd1fe1af"
+build_time: [1553766304, 695824000]
+inputs:
+  "/Users/winsthevaa/Downloads/Ramanan 174127R/catwalk/ViewController1.swift": [1550824072, 0]
+  "/Users/winsthevaa/Downloads/Ramanan 174127R/catwalk/login.swift": [1550736986, 0]
+  "/Users/winsthevaa/Downloads/Ramanan 174127R/catwalk/signup.swift": [1553766304, 0]
+  "/Users/winsthevaa/Downloads/Ramanan 174127R/catwalk/radio.swift": [1550816668, 0]
+  "/Users/winsthevaa/Downloads/Ramanan 174127R/catwalk/catwalk/ViewController.swift": [1550736226, 0]
+  "/Users/winsthevaa/Downloads/Ramanan 174127R/catwalk/catwalk/AppDelegate.swift": [1553759403, 0]
